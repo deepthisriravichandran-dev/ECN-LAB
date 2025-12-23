@@ -26,6 +26,11 @@
 
 
 
+<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/a2f837eb-6100-4f6a-b010-aa1d03fbbed3" />
+<img width="782" height="1280" alt="image" src="https://github.com/user-attachments/assets/f8e0be73-2128-4367-a069-66f2be92bb49" />
+
+
+
 
 
 
@@ -50,6 +55,10 @@
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
 **RESULT:**
+
+
+<img width="830" height="1280" alt="image" src="https://github.com/user-attachments/assets/bcf04420-193a-4379-873e-9f5a236220bf" />
+
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
